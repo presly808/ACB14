@@ -1,0 +1,12 @@
+package ua.artcode.week1;
+
+/**
+ * Created by serhii on 21.02.16.
+ */
+public class Task1 {
+
+    // Ctrl + Shift + /
+    /*pulic static void main(String[] args) {
+
+    }*/
+}
