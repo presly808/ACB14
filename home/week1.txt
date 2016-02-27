@@ -33,7 +33,7 @@ Homework 1.
 	4. Задания (каждое задание делать в отдельном классе)
 		push all your homework(performed tast) to the github
 		simple git tutorial helps to share your homework
-		https://www.youtube.com/watch?v=R6JomxUjTq8 
+		https://www.youtube.com/watch?v=R6JomxUjTq8
 
 		4.1. Пользователь вводит параметр с консоли (текущий час от 0 до 24)
 				Если время от 9 до 18, то выводим "Я на работе", в другом случае "Я отдыхаю")
