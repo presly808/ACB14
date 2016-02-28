@@ -1,8 +1,5 @@
 package ua.artcode.week2;
 
-/**
- * Created by serhii on 27.02.16.
- */
 public class _05LoopWithArr {
 
 
