@@ -1,0 +1,91 @@
+0. Video https://www.youtube.com/watch?v=fNFaGxIlWZA&list=PLvmHg49t5OCSrfmZAhXWn61rZVxwU2Ow5&index=2
+	 https://www.youtube.com/watch?v=ZRgR-E5OFW4&index=3&list=PLvmHg49t5OCSrfmZAhXWn61rZVxwU2Ow5
+
+1. 		
+		Math.random
+		
+		Primitive vs Reference
+
+		type convertion int -> double, double -> int, etc.
+
+		loop(start,end,step)
+			while, do-while,for 	
+
+		array
+		    	static size, indexes, one type for all cells
+			action
+				create
+				read from cell
+				write into cell 
+
+		method (grouping line of code)
+			location - in class
+			structure - 
+			// signature			
+			public static <type> <name>(<type> <argName>){
+				// body, actions			
+			}
+
+		!!!REMEMBER about creator and user
+
+	
+2. Analyze code(use debug or visualizer)
+	previous code week2_day1.txt
+	- classwork
+	- https://github.com/presly808/base6/tree/master/src/week2/day1
+	- https://github.com/presly808/base6/blob/master/src/week2/day2/FindMin.java
+	- http://www.golovachcourses.com/procedural-iteration/		
+	
+3. Do First nine task from below links !!! You can use IDEA for better understanding
+	http://codingbat.com/java/Array-1
+				    
+4. Массив создается с помощью метода в классе ArrayUtils
+
+	1) Найти минимальное и максимальное значения в массиве и вывести их на консоль
+
+	2) Поменять местами наибольший
+		и наименьший элементы в массиве
+
+	3) Заданы два массива одинаковой длинны с любыми значениями скопировать данные из первого массива во второй
+
+	4) Посчитать сколько цифр(цифра задается пользователем) в массиве
+
+	5) Заполнить массив случайными значениями. На четных индексах парные значения, на нечетных непарные
+
+	6) Найти среднее арифметическое массива
+
+	7) Вывести в консоль элементы той половины одномерного массива у которой среднее арифметическое максимальное
+
+	8) Eсть два массива одинаковой длины arr1 и arr2 вывести в консоль значения массива,
+	   который получается в результате суммы arr1[i] + arr2[i]
+
+	9) Задать два массива случайными числами от 25 до 75. Определить у какого из массивов больше парных елементов.
+
+	10) public static int[] splitArray(int[] arr, int start, int end) { // обрезать массив по границам start и end
+	}
+
+
+	String 
+			http://codingbat.com/doc/java-string-introduction.html
+			http://codingbat.com/doc/java-string-substring.html
+
+5. Do First nine task from below links !!! You can use IDEA for better 
+	http://codingbat.com/java/Array-2
+	http://codingbat.com/java/String-1
+
+6. * http://codingbat.com/java/String-2 (first 9 tasks) 
+
+7. *
+
+	2.1 Инвертировать массив (без использования допольнительного массива)
+
+	2.2 Проверить или является число простым
+
+	2.3 Посчитать колличество букв 'a' в строке (искомый символ может быть разным)
+
+	2.4 Сдвинуть массив на заданное количество позиций // {1,2,3,4,5} -> 2 = {4,5,1,2,3}; {1,2,3,4,5} -> 3 = {3,4,5,1,2}
+		Количество позиций и массив указывает пользователь
+
+	2.5 Заменить в строке все символы 'a' на '@' и вывести новую строку // "array is a data type" -> "@rr@y is @ d@t@ type"
+
+	Все получится :)
