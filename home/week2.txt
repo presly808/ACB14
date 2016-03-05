@@ -1,5 +1,5 @@
-0. Video https://www.youtube.com/watch?v=fNFaGxIlWZA&list=PLvmHg49t5OCSrfmZAhXWn61rZVxwU2Ow5&index=2
-	 https://www.youtube.com/watch?v=ZRgR-E5OFW4&index=3&list=PLvmHg49t5OCSrfmZAhXWn61rZVxwU2Ow5
+0.   Video https://www.youtube.com/watch?v=fNFaGxIlWZA&list=PLvmHg49t5OCSrfmZAhXWn61rZVxwU2Ow5&index=2
+	 	   https://www.youtube.com/watch?v=ZRgR-E5OFW4&index=3&list=PLvmHg49t5OCSrfmZAhXWn61rZVxwU2Ow5
 
 1. 		
 		Math.random

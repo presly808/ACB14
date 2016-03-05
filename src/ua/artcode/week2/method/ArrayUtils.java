@@ -44,6 +44,17 @@ public class ArrayUtils {
         return mas;
     }
 
+    public static int[] genRandomMasOddNum(int size, int range){
+        int[] mas = new int[size];
+        for (int i = 0; i < mas.length; i++) {
+            int random = genRandomNum(range);
+            // ternary operator
+            mas[i] = random % 2 != 0 ? random : random + 1;
+        }
+
+        return mas;
+    }
+
     public static String convert(int[] mas){
         String res = "";
         for (int i = 0; i < mas.length; i++) {
