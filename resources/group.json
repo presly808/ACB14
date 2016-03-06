@@ -1,0 +1,32 @@
+{
+  "groupName": "ACB14",
+  "count": 10,
+  "list": [
+    {
+      "name": "Serhii",
+      "birth": "1992-19-05",
+      "taskCount": 100,
+      "rank": 4
+    },
+    {
+      "name": "Ivan",
+      "birth": "1990-20-03",
+      "taskCount": 80,
+      "rank": 5
+    }
+  ]
+}
+// [] - array
+// 234 - int
+// 234.44 - double
+// {} - object
+/*{
+   "key1" : value,
+   "key2" : value
+   ...
+}
+
+
+"{name : %s, count : %d, list : %s}", group.name, group.size, arrToJ
+
+*/
