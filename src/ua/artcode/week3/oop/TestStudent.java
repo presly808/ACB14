@@ -1,13 +1,10 @@
-package ua.artcode.wekk3;
-
-import ua.artcode.wekk3.oop.Group;
-import ua.artcode.wekk3.oop.GroupJsonUtils;
-import ua.artcode.wekk3.oop.Student;
+package ua.artcode.week3.oop;
 
 /**
  * Created by serhii on 06.03.16.
  */
-public class _06GroupToJson {
+public class TestStudent {
+
 
     public static void main(String[] args) {
         Student st1 = new Student();
@@ -22,26 +19,25 @@ public class _06GroupToJson {
         st2.taskCount = 80;
         st2.rank = 5;
 
-        String stJson = GroupJsonUtils.studentToJson(st1);
 
-        System.out.println(stJson);
-
+        String name = "{" + st1.name + "}";
 
         Student[] list = new Student[6];
         list[0] = st1;
         list[1] = st2;
 
-        String arrJson = GroupJsonUtils.arrToJson(list);
-        System.out.println(arrJson);
-
         Group group = new Group();
+
+        /*System.out.println(group.list);
+        System.out.println(group.size);
+        System.out.println(group.name);
+*/
 
         group.name = "ACB14";
         group.size = 10;
         group.list = list;
 
-        System.out.println(GroupJsonUtils.toJson(group));
-
+        // debug next code line
+        list[0] = null;
     }
-
 }

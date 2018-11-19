@@ -1,4 +1,4 @@
-package ua.artcode.wekk3;
+package ua.artcode.week3;
 
 /**
  * Created by serhii on 05.03.16.

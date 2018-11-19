@@ -1,4 +1,4 @@
-package ua.artcode.wekk3;
+package ua.artcode.week3;
 
 import ua.artcode.utils.MatrixUtils;
 

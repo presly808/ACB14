@@ -1,7 +1,4 @@
-package ua.artcode.wekk3;
-
-import java.util.Objects;
-import java.util.Scanner;
+package ua.artcode.week3;
 
 /**
  * Created by serhii on 05.03.16.
